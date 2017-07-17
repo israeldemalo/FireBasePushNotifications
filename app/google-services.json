@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353256914340",
+    "firebase_url": "https://fir-pushnotifications-aa8a0.firebaseio.com",
+    "project_id": "fir-pushnotifications-aa8a0",
+    "storage_bucket": "fir-pushnotifications-aa8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353256914340:android:8146e3f525d4645b",
+        "android_client_info": {
+          "package_name": "israel.firebasepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353256914340-9oioeu297bcs9sm0rnvi9v5cgdug2ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "israel.firebasepushnotifications",
+            "certificate_hash": "699c0e80c3467094815856f224bb72dfc396424e"
+          }
+        },
+        {
+          "client_id": "353256914340-hm70iqakla4kjmhmftf0ameiedf4qobu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lsXEtyB64N2xz-PT-MxjYz795LjAh_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353256914340-hm70iqakla4kjmhmftf0ameiedf4qobu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
